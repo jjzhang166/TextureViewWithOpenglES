@@ -3,8 +3,8 @@
 #include <jni.h>
 /* Header for class com_example_project1_RenderCode */
 
-#ifndef _Included_com_example_project1_RenderCode
-#define _Included_com_example_project1_RenderCode
+#ifndef _Included_com_example_textureviewwithopengles_RenderCode
+#define _Included_com_example_textureviewwithopengles_RenderCode
 #ifdef __cplusplus
 extern "C" {
 #endif
